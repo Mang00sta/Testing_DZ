@@ -24,4 +24,5 @@
 
 ## Задание выполненно:
 
-https://docs.google.com/spreadsheets/d/1mS_k2089HladhflFCEhOlSpIj-uJJmsDf6L-PcDOVWE/edit?usp=sharing
+1,2,3 - https://docs.google.com/spreadsheets/d/1mS_k2089HladhflFCEhOlSpIj-uJJmsDf6L-PcDOVWE/edit?usp=sharing
+4 - [Урок 2. Создание чек-листов](https://app.qase.io/public/report/ce39a0c8d5d038d4ca70a6106f9093fcb0ef68b8)
