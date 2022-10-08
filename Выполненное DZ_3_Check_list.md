@@ -25,6 +25,6 @@ Zz123456
 
 2. [Урок 3. Создание тест-кейсов. Домашне задание №2](https://docs.google.com/spreadsheets/d/1LRwv579sLtIFYNGxizkoQRt-gSJV3QSs8dUWJcfjPDk/edit?usp=sharing)
   
-3. [Перенести чек-лист в любую ТМС]()
+3. [Перенести чек-лист в любую ТМС](https://app.qase.io/public/report/3a1efab4f38a1e9e4662d0cbe0a9a024dc845ea0)
 
 kapelov746@lurenwu.com - создан инвайт в мои проекты программы Qase.  
