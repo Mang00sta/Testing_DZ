@@ -21,8 +21,10 @@ Zz123456
 
 ## Задание выполненно:
 
-1 - [Копия Урок 3. Создание тест-кейсов. Домашне задание](https://docs.google.com/spreadsheets/d/1LmcpQU-qWjWDQS44LvGNvq_F4FrNEd2A5UA3HXvNgcQ/edit?usp=sharing)
-2.  [Урок 3. Создание тест-кейсов. Домашне задание №2](https://docs.google.com/spreadsheets/d/1LRwv579sLtIFYNGxizkoQRt-gSJV3QSs8dUWJcfjPDk/edit?usp=sharing)
-3 - [Перенести чек-лист в любую ТМС]()
+1. [Копия Урок 3. Создание тест-кейсов. Домашне задание](https://docs.google.com/spreadsheets/d/1LmcpQU-qWjWDQS44LvGNvq_F4FrNEd2A5UA3HXvNgcQ/edit?usp=sharing)
+
+2. [Урок 3. Создание тест-кейсов. Домашне задание №2](https://docs.google.com/spreadsheets/d/1LRwv579sLtIFYNGxizkoQRt-gSJV3QSs8dUWJcfjPDk/edit?usp=sharing)
+  
+3. [Перенести чек-лист в любую ТМС]()
 
 kapelov746@lurenwu.com - создан инвайт в мои проекты программы Qase.  
