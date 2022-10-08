@@ -2,7 +2,7 @@
  
 ## Урок 3. Создание тест-кейсов
 
- 1. Провести тестирование по тест-кейсам из вкладки “Тест-кейсы” https://docs.google.com/spreadsheets/d/1Dn2eBjfJ2XTCeqnu2mhVKTgg3-Gla6LjZITl6EIDlR8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Dn2eBjfJ2XTCeqnu2mhVKTgg3-Gla6LjZITl6EIDlR8/edit?usp=sharing
+ 1. Провести тестирование по тест-кейсам из вкладки “Тест-кейсы” https://docs.google.com/spreadsheets/d/1Dn2eBjfJ2XTCeqnu2mhVKTgg3-Gla6LjZITl6EIDlR8/edit?usp=sharing
 Для каждого пройденного тест-кейса выставить один из статусов: passed, failed, blocked или skipped. В ячейке “Комментарий” нужно сформулировать, что именно работает не так, если у сценария не успешный статус.
 
 2.Написать тест-кейсы на раздел “Наш Блог” проекта https://limelab.tech/foodbuzz/. Количество тест-кейсов может быть любым, основные требования к тест-кейсам:
