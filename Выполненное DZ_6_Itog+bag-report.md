@@ -19,11 +19,7 @@ tacitad816@laluxy.com пароль: Xperiax8
 1,2,3,4 - [Задания выполнены в Jira](https://mang0sta.atlassian.net/jira/projects)
 доступ организован для tacitad816@laluxy.com
 
-4й пункт выполнен в Qase - 
-
-   [Меню на сегодня](https://app.qase.io/public/report/b1094f3ad8670d90556e5162efa578e05df368dd)
-
-   [Наши повара](https://app.qase.io/public/report/e2f88cc6f815b39083098ada361f2ad0a93bb423)
+4й пункт выполнен в Qase - [Меню на сегодня](https://app.qase.io/public/report/b1094f3ad8670d90556e5162efa578e05df368dd) ||   [Наши повара](https://app.qase.io/public/report/e2f88cc6f815b39083098ada361f2ad0a93bb423)
 
 
 kapelov746@lurenwu.com - создан инвайт в мои проекты программы Qase.  
