@@ -14,5 +14,7 @@
 
 [Отчет Qase](https://app.qase.io/public/report/5b50d83fca1316f2f40dfdaa3b4a800fafa4ea37)
 
-[Заведенные баг-репорты в Jira]()
+[Заведенные баг-репорты в Jira](https://mang00sta.github.io/DZ_10_bug_report_jira/)
+
+
 
