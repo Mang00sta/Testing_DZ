@@ -16,5 +16,6 @@
 
 [Заведенные баг-репорты в Jira](https://mang00sta.github.io/DZ_10_bug_report_jira/)
 
+[Отчет о тестировании Модальное окно оплаты товара](https://drive.google.com/file/d/1sAFu2k5LNTRMYhmR5DPRjOhOzCmEoOVS/view?usp=sharing)
 
 
