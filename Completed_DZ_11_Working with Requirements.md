@@ -14,5 +14,5 @@
 
 [Декомпозиция требований](https://xmind.works/share/FzOjZVY9)
 
-
+[Раздел Вкусное Меню На Сегодня](https://docs.google.com/document/d/1RUyq4v1Fs7zJqD8fbLd2v0KAoe6tQS_laAcxoJ6xoMo/edit?usp=sharing)
 
